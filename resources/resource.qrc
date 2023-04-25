@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>fonts/OpenSans-Medium.ttf</file>
+        <file>fonts/OpenSans-Regular.ttf</file>
+        <file>fonts/SourceCodePro-Regular.ttf</file>
+        <file>images/hash-icon.svg</file>
+    </qresource>
+</RCC>
